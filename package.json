@@ -1,0 +1,14 @@
+{
+  "name": "otp-bot-auto-login-v2",
+  "version": "1.0.1",
+  "description": "Seven1tel OTP Bot with Auto Login and Startup OTP Send",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "cheerio": "^1.0.0-rc.12",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
